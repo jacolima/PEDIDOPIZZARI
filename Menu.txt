@@ -8,3 +8,6 @@ Telefone:
 Cleinte:
 CPF:
 E-MAIL:
+
+
+Aceita participar de promoções:? () Sim () Não
